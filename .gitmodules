@@ -1,0 +1,3 @@
+[submodule "src/submodules/react-container-components"]
+	path = src/submodules/react-container-components
+	url = https://github.com/Tofferbear/react-container-components.git
